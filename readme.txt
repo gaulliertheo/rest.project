@@ -1,7 +1,6 @@
 1) Création de la base de données :
 
-Dans phpMyAdmin : lancer les requêtes sql données dans rest.project > src > sql. Elles créent la base de donnée "restproject".
-Dans rest.project > src > rest.project.dao > DBdao.java: modifier l'URL de la base de données("dbURL"), l'utilisateur ("user") et le mot de passe ("pwd"), aux lignes 33,34,35.
+Dans phpMyAdmin : lancer les requêtes sql données dans le fichier restproject.sql. Elles créent la base de donnée "restproject".
 
 2) Driver MySql :
 
